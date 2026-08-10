@@ -1,1 +1,17 @@
+# macOS
 .DS_Store
+
+# Node.js
+node_modules/
+
+# Build output
+dist/
+dist-electron/
+release/
+
+# Electron
+*.app
+
+# Environment
+.env
+.env.*
